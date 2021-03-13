@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: londonfilmpremieres.com
+Token: 1db211767435b9330c9f3a0b49c2de66b817968351ec2d9490c6ea79536b1b11

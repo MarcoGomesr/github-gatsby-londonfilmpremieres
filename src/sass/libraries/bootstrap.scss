@@ -1,0 +1,18 @@
+
+//edit widths 
+$container-max-widths: (
+  md: 663px,
+  lg: 664px,
+  xl: 665px
+) ;
+
+//boostrap
+@import '~bootstrap/scss/bootstrap-reboot.scss';
+@import '~bootstrap/scss/bootstrap-grid.scss';
+@import '~bootstrap/scss/alert.scss';
+@import '~bootstrap/scss/images.scss';
+
+
+$enable-flex:               true;
+$enable-grid-classes:       false;
+
